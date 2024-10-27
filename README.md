@@ -1,3 +1,5 @@
+![Chicago Skyline Banner](https://github.com/Aleks-Wit/Aleks-Wit/blob/main/ChicagoSkyline_Banner.jpg?raw=true)
+
 - 👋 Hi, I’m @Aleks-Wit (I go by Aleksandra)
 - 👀 I’m interested in data analysis, automation, and Python programming.
 - 🌱 I’m currently learning advanced Python at a local college and exploring web scraping and data visualization.
